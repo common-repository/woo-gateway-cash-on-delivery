@@ -1,0 +1,138 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Woo Gateway Cash On Delivery v1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2016-04-21 13:19-0300\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Textdomain-Support: yes\n"
+"Last-Translator: \n"
+"Language: pt_BR\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:18
+msgid "Enable/Disable"
+msgstr "Habilitar/Desabilitar"
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:20
+msgid "Enable Cash on Delivery"
+msgstr "Ativar pagamento em dinheiro"
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:24
+msgid "Title"
+msgstr "Título"
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:26
+msgid "This controls the title which the user sees during checkout."
+msgstr ""
+"Isto controla o título que o usuário vê durante a finalização da compra."
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:27 woo-gateway-cash-on-delivery.php:34
+#: woo-gateway-cash-on-delivery.php:64 woo-gateway-cash-on-delivery.php:97
+msgid "Cash on Delivery"
+msgstr "Pagamento em Dinheiro"
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:31
+msgid "Description"
+msgstr "Descrição"
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:33
+msgid "Payment method description that the customer will see on your checkout."
+msgstr ""
+"Descrição do método de pagamento que o cliente verá na finalização da compra."
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:38
+msgid "Enable for shipping methods"
+msgstr "Ativar para os métodos de entrega"
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:43
+msgid ""
+"If Cash on Delivery is only available for certain methods, set it up here. "
+"Leave blank to enable for all methods."
+msgstr ""
+"Se o pagamento em dinheiro está disponível apenas para determinados métodos, "
+"informe-os aqui. Caso contrário, deixe em branco para ativar para todos os "
+"métodos."
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:47
+msgid "Select shipping methods"
+msgstr "Selecione os métodos de entrega"
+
+# @ woo-gateway-delivery
+#. translators: plugin header field 'Name'
+#: woo-gateway-cash-on-delivery.php:0
+msgid "Woo Gateway Cash On Delivery"
+msgstr ""
+
+# @ woo-gateway-delivery
+#. translators: plugin header field 'PluginURI'
+#: woo-gateway-cash-on-delivery.php:0
+msgid "https://wordpress.org/plugins/woo-gateway-cash-on-delivery/"
+msgstr ""
+
+# @ woo-gateway-delivery
+#. translators: plugin header field 'Author'
+#: woo-gateway-cash-on-delivery.php:0
+msgid "Carlos Ramos Web"
+msgstr ""
+
+# @ woo-gateway-delivery
+#. translators: plugin header field 'AuthorURI'
+#: woo-gateway-cash-on-delivery.php:0
+msgid "http://plugins.criacaocriativa.com.br/"
+msgstr ""
+
+# @ woo-gateway-delivery
+#. translators: plugin header field 'Version'
+#: woo-gateway-cash-on-delivery.php:0
+msgid "1.0.0"
+msgstr ""
+
+# @ woo-gateway-delivery
+#: woo-gateway-cash-on-delivery.php:35
+msgid "Add new form of payment with cash on delivery."
+msgstr "Adicionar nova forma de pagamento com dinheiro na entrega."
+
+# @ woo-gateway-delivery
+#: includes/settings-form-fields.php:34
+msgid "Please indicate whether you will need to change..."
+msgstr "Informe se irá precisar de troco…"
+
+# @ woo-gateway-delivery
+#: woo-gateway-cash-on-delivery.php:82
+msgid "Bring change for: "
+msgstr "Levar troco para: "
+
+# @ woo-gateway-delivery
+#: woo-gateway-cash-on-delivery.php:108
+msgid "*Enter 0 to inform you that do not need to change."
+msgstr "*Digite 0 SE NÃO precisa de troco."
+
+# @ woo-gateway-delivery
+#. translators: plugin header field 'Description'
+#: woo-gateway-cash-on-delivery.php:0
+msgid ""
+"Make deliveries and earn cash on delivery even with exchange of information "
+"on money."
+msgstr ""
+"Faça entregas e receba em dinheiro no ato da entrega ainda com informação de "
+"troco em dinheiro."
